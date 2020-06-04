@@ -14,7 +14,7 @@ concept: scopes!
 
 "Scope" defines where in a program a _variable_ is accessible or "visible."  A
 "variable is a name that Ruby associates with data. For example, `dog =
-""Poodle"` or `age = 32`. Variables hold the information we want to save and
+"Poodle"` or `age = 32`. Variables hold the information we want to save and
 "reuse.
 
 But sometimes you can't access variables. They're said to be "invisible" or
